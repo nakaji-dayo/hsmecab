@@ -3,3 +3,4 @@
 *.hi
 dist/
 cabal-dev/
+.stack-work/

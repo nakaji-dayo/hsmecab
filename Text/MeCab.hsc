@@ -357,3 +357,4 @@ foreign import ccall mecab_get_all_morphs
 
 foreign import ccall mecab_set_all_morphs
   :: Ptr MeCab -> CInt -> IO ()
+
