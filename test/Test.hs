@@ -26,4 +26,4 @@ main = do
   --   when (isJust s) $
   --     print $ (fromJust s :: [Node String])
 
-  -- print =<< parseToNodes m "にわにはにわにわとりがいる"
+  print =<< parseToNodes m "にわにはにわにわとりがいる"
