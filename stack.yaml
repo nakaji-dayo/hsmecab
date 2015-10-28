@@ -26,4 +26,4 @@ flags: {}
 
 # Extra directories used by stack for building
 extra-include-dirs: [/usr/local/include]
-extra-lib-dirs: [/usr/local/Cellar/mecab/0.996/lib]
+extra-lib-dirs: [/usr/local/lib]
